@@ -12,7 +12,6 @@ cout<<result‹‹" ";
  a=b;
 b=result;
 }
-cout<< endl; 
 return 0;
 }
 
